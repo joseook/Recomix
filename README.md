@@ -79,6 +79,7 @@ This project provides a solid and flexible foundation for developing high-qualit
 
 Enjoy exploring new Anime shows and Music tracks with your personalized Anime and Music Recommendation System!
 
-**Note**: Ensure that the required data, such as CSV files and embedding models, are present in the appropriate folders before running the recommendation system. Additionally, make sure Python virtual environments (venv) are set up correctly to avoid dependency conflicts.
+## Notes: 
+Ensure that the required data, such as CSV files and embedding models, are present in the appropriate folders before running the recommendation system. Additionally, make sure Python virtual environments (venv) are set up correctly to avoid dependency conflicts.
 
-.
+---
